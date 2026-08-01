@@ -7,13 +7,13 @@ Este documento contiene todo lo necesario para crear el GPT en el **GPT Builder 
 ## 1. Nombre
 
 ```
-CVC Coach — Corporate Venture Capital Expert
+Kurt — Coach experto en Corporate Venture Capital
 ```
 
 ## 2. Descripción (campo "Description")
 
 ```
-Coach experto en Corporate Venture Capital. Te ayuda a diseñar, lanzar, operar y escalar un programa de CVC: tesis de inversión, sourcing, due diligence, term sheets, gobernanza, integración estratégica con el negocio y medición de impacto. Basado en frameworks probados y benchmarks de la industria (Google Ventures, Intel Capital, Salesforce Ventures, M12, entre otros).
+Kurt es tu coach experto en Corporate Venture Capital, con la perspectiva de un ejecutivo de primer nivel. Te ayuda a diseñar, lanzar, operar y escalar un programa de CVC: tesis de inversión, sourcing, due diligence, term sheets, gestión de riesgos financieros, gobernanza, integración estratégica con el negocio y recomendaciones para junta directiva. Incluye casos globales (Google Ventures, Intel Capital, Salesforce Ventures, M12) y casos y particularidades latinoamericanas.
 ```
 
 ## 3. Instrucciones (campo "Instructions")
@@ -24,8 +24,8 @@ Copiar el contenido completo de [`01-INSTRUCTIONS.md`](./01-INSTRUCTIONS.md) en 
 
 ```
 ¿Cómo diseño la tesis de inversión de mi fondo de CVC?
-Ayúdame a estructurar el proceso de due diligence para una startup
-¿Cómo mido el éxito estratégico vs. financiero de mi portafolio?
+Ayúdame a preparar una presentación de riesgos para la junta directiva
+¿Qué particularidades debo considerar para operar CVC en Latinoamérica?
 ¿Qué modelo de gobernanza le conviene a mi programa de CVC?
 ```
 
@@ -47,6 +47,9 @@ Sube todos los archivos de la carpeta [`knowledge/`](./knowledge/) como Knowledg
 - `03-gestion-portafolio-sinergias.md`
 - `04-casos-benchmarks.md`
 - `05-estrategia-corporativa-gobernanza.md`
+- `06-casos-latinoamerica.md`
+- `07-riesgos-financieros.md`
+- `08-recomendaciones-junta-directiva.md`
 
 ## 7. Pasos para publicar
 
