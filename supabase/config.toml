@@ -1,0 +1,7 @@
+project_id = "tree-studio-diagnostico"
+
+[functions.generate-report]
+# El diagnóstico es público (sin login), así que la función no exige un
+# usuario autenticado. La seguridad de la llave de Claude la da el secreto
+# de servidor (ANTHROPIC_API_KEY), no esta verificación.
+verify_jwt = false
